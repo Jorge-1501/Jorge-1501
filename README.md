@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+### Hi there 👋 I'm Jorge Luis!<br><br>I'm a final-year Physics student passionate about the intersection of **Data Science**, **Machine Learning**, and **Quantum Computing**. My goal is to leverage advanced computational techniques to solve complex scientific and technological challenges.<br><br>---<br><br>**🔭 `I’m currently working on...`**<br>* My undergraduate thesis: developing **Quantum Kolmogorov-Arnold Networks (QKANs)** for quark-gluon jet classification using Pennylane and Pykan.<br>* Completing advanced projects in **Data Science** as part of the TripleTen Bootcamp, focusing on EDA, hypothesis testing, and customer segmentation.<br><br>**🌱 `I’m currently learning...`**<br>* Advanced applications of **Quantum Machine Learning (QML)** and variational algorithms.<br>* Deepening my practical skills in Deep Learning frameworks like **PyTorch** and **TensorFlow**.<br>* Expanding my familiarity with MLOps tools like **Docker** and cloud platforms like **AWS**.<br><br>**👯 `I’m looking to collaborate on...`**<br>* Open-source projects related to **Quantum Machine Learning (QML)** or quantum algorithm implementation (like QAOA or VQE).<br>* Applying **Graph Neural Networks (GNNs)** to complex datasets, especially in physics or scientific research.<br>* Data-driven research projects in high-energy physics or particle analysis.<br><br>**🚀 `I’m actively seeking...`**<br>* Challenging opportunities (in **industry or research**) to apply my skills in Quantum Computing, QML, and Data Science.<br>* Collaboration and mentorship from researchers and professionals in the Quantum Technologies field as I prepare for postgraduate studies.<br><br>**💬 `Ask me about...`**<br>* Quantum Machine Learning and quantum algorithm implementation with **Qiskit** and **Pennylane**.<br>* Using Deep Learning (especially **GNNs** and **CNNs**) for particle physics data analysis.<br>* Data analysis pipelines for high-energy physics data (ROOT, Monte Carlo simulations).<br>* How to balance a physics degree with competitive dance!<br><br>**⚡ `Fun fact...`**<br>* I'm a competitive dancer and instructor and have won national awards for urban dance.
 
-<!--
-**Jorge-1501/Jorge-1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jorge.toral20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-luis-toral-gamez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jltg_1501@hotmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jorge-1501&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jorge-1501&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-1501&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
