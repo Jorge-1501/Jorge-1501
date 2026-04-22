@@ -6,33 +6,20 @@
 ---
 
 # 💫 About Me:
-I'm a **Physicist** specialized in the intersection of **Data Science**, **Machine Learning**, and **Quantum Computing**. My focus lies in leveraging high-level mathematical modeling and advanced computation to solve complex scientific and industrial challenges.
+### I'm a **Physicist** specialized in the intersection of **Data Science**, **Machine Learning**, and **Quantum Computing**. My focus lies in leveraging high-level mathematical modeling and advanced computation to solve complex scientific and industrial challenges.
 
-**🔭 `I’m currently working on...`**
-* My undergraduate thesis: exploring advanced **Quantum Machine Learning (QML)** architectures for particle classification with **Pennylane**.
-* Developing end-to-end **Data Science** solutions at TripleTen, implementing **ETL/ELT** pipelines and customer segmentation strategies to optimize market-specific decision-making.
+### **🔭 Research & Projects**
+* ### **Quantum Machine Learning**: Developing **QKANs** for particle jet classification in high-energy physics.
+* ### **Data Science**: Implementing **ETL/ELT** pipelines and customer segmentation at TripleTen to drive strategic market decisions.
 
-**🌱 `I’m currently learning...`**
-* Advanced **Quantum Algorithms** (VQE, QAOA) and their application in optimization.
-* Advanced applications of **Quantum Machine Learning (QML)** and variational algorithms.
-* Deepening my practical skills in Deep Learning frameworks like **PyTorch** and **TensorFlow**.
-* MLOps foundations with **Docker** and cloud computing via **AWS**.
+### 💬 Let's talk about:
+* ### Quantum algorithms with **Qiskit**, **PennyLane**, or **Cirq**.
+* ### Particle physics, **ROOT** simulations, or **Linux/SSH** workflows.
+* ### How to maintain the discipline of a professional dancer in the lab.
+* ### **Professional inquiries: jorge.toralga@gmail.com**
 
-**👯 `I’m looking to collaborate on...`**
-* Open-source projects involving **Quantum Information** or hybrid quantum-classical architectures (**QAOA, VQE, QML, etc.**).
-* Application of **Kolmogorov-Arnold Networks (KANs)** and **Graph Neural Networks (GNNs)** to scientific datasets or complex network analysis.
-* Research-driven projects in high-energy physics and particle detection.
 
-**🚀 `I’m actively seeking...`**
-* Strategic roles in **industry or research** where I can apply my expertise in Data Science and Quantum Technologies.
-* Mentorship and collaboration as I prepare for graduate studies in AI or Quantum Technologies.
-
-**💬 `Ask me about...`**
-* Quantum algorithms with **Qiskit**, **PennyLane**, and **Cirq**.
-* Particle physics data analysis (ROOT, Monte Carlo) and my experience at the **Pierre Auger Observatory**.
-* Scientific outreach with **SPIE & Optica**.
-* Balancing the rigor of a Physics degree with the discipline of professional **Urban Dance**.
-* **Professional inquiries: [jorge.toralga@gmail.com](mailto:jorge.toralga@gmail.com)**
+I've had the chance to get my hands dirty with real physics data: from analyzing **CERN Open Data** to keep an eye on cosmic rays for the **Pierre Auger Observatory**. When I'm not debugging circuits or training models, I'm probably doing some scientific outreach with **SPIE or Optica** or practicing **urban dance**—my other big passion.
 
 ---
 
@@ -55,7 +42,7 @@ I'm a **Physicist** specialized in the intersection of **Data Science**, **Machi
 ---
 
 # ⚡ Fun Fact:
-I'm a competitive dancer and instructor! I have won national awards for urban dance and currently share this passion as a professional instructor. I believe the discipline of the stage is the perfect match for the rigor of the lab.
+I'm a competitive dancer and instructor! I have won national awards in urban dance and currently share this passion as a professional instructor. I believe the discipline of the stage is the perfect match for the rigor of the lab.
 
 ---
 
