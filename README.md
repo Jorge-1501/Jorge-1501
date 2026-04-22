@@ -1,12 +1,7 @@
 # Hi there 👋 I'm Jorge Toral!
 ### Physicist | Quantum Computing & AI Researcher | Data Scientist
 
-<p align="left">
-<a href="https://linkedin.com/in/jorge-luis-toral-gamez"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Jorge-1501"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://instagram.com/jorge.toral_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:jltg_1501@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-luis-toral-gamez) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Jorge-1501) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jorge.toral20) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jorge.toralga@gmail.com) [![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:jltg_1501@hotmail.com)
 
 ---
 
@@ -14,7 +9,7 @@
 I'm a **Physicist** specialized in the intersection of **Data Science**, **Machine Learning**, and **Quantum Computing**. My focus lies in leveraging high-level mathematical modeling and advanced computation to solve complex scientific and industrial challenges.
 
 **🔭 `I’m currently working on...`**
-* My undergraduate thesis: exploring advanced **Quantum Machine Learning (QML)** architectures using **Kolmogorov-Arnold Networks (KAN)** for particle classification with **Pennylane**.
+* My undergraduate thesis: exploring advanced **Quantum Machine Learning (QML)** architectures for particle classification with **Pennylane**.
 * Developing end-to-end **Data Science** solutions at TripleTen, implementing **ETL/ELT** pipelines and customer segmentation strategies to optimize market-specific decision-making.
 
 **🌱 `I’m currently learning...`**
@@ -25,7 +20,7 @@ I'm a **Physicist** specialized in the intersection of **Data Science**, **Machi
 
 **👯 `I’m looking to collaborate on...`**
 * Open-source projects involving **Quantum Information** or hybrid quantum-classical architectures (**QAOA, VQE, QML, etc.**).
-* Application of **Graph Neural Networks (GNNs)** to scientific datasets or complex network analysis.
+* Application of **Kolmogorov-Arnold Networks (KANs)** and **Graph Neural Networks (GNNs)** to scientific datasets or complex network analysis.
 * Research-driven projects in high-energy physics and particle detection.
 
 **🚀 `I’m actively seeking...`**
@@ -54,10 +49,8 @@ I'm a **Physicist** specialized in the intersection of **Data Science**, **Machi
 ---
 
 # 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jorge-1501&theme=dark&hide_border=true&show_icons=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-1501&theme=dark&hide_border=true&layout=compact" height="150" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Jorge-1501&theme=dark&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-1501&theme=dark&hide_border=true&layout=compact)
 
 ---
 
